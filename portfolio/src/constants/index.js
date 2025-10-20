@@ -7,7 +7,6 @@ import {
   typescript,
   html,
   css,
-  c,
   reactjs,
   redux,
   tailwind,
@@ -74,8 +73,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "C",
-    icon: c,
+    name: "Typescript",
+    icon: typescript,
   },
   /*{
     name: "React JS",
